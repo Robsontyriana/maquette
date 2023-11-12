@@ -1,0 +1,38 @@
+-donner les reprtion sur 8 bit de nbr -24 en utilisant le binaire en complimt & 2
+-effectuez les operantion svnt
+en octal : 655-476
+en exa-decimal : 4A8-2D1
+-donner la representation de simple precision
+46,37
+-quel est l'equivalant decimal de code aming 0001110
+
+
+-donner les reprtion sur 8bit de ndr -85 en utilisant le binaire en excedant 127
+-effectuez les operation suivnt
+en octal : 715-227
+en exa : 4A8-14D
+-donnez les reption du nbr octal 46 en utilisant le bcd compacte et etandu (+ code par 1011)
+-donnez la rption en virgul flotante de nbr decimal 0,000745 en utilisant le standart IEEE 754 en simple precision
+-effectuer les operation suivnt
+en binaire en complement a 2 : 0110 0011-1001 1101
+-effectuer les operatoin suivnt
+en octal : 745-367
+en exadecimal : 94A-4CE 
+-en utilisant la parité paire quel sont les bit de parité de code ASC2I de caractere suivtn: 
+ L(1001100) 
+ H(1001000)
+ -donnez les code aming du nbr entier 6
+
+ *exposé max 10 page format(power point) 1heur max 
+
+
+
+ CHAP II: -Les micorprocesseurs
+          -Les mémoire
+          -Les interfacess d'entrée/sortie
+          -Les cartes meres
+          -Les mémoires secondaires
+          -Les peripheriques d'entre/sortie
+Goupe 1: peripherique d'entre et sortie
+         ** p d'entre **
+         ** p  sortie **
